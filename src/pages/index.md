@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: 'ADAM '
+title: ADAM - KOMMUNIKATION
 image: /img/adam-kommunikation.png
-heading: DIGITAL KOMMUNIKATION
+heading: 'Kreativ & rolig kommunikation '
 subheading: 'CONTENT, DIGITAL & FOTO - kommunikation'
 mainpitch:
   title: Välkomna till ADAM!
@@ -11,10 +11,7 @@ mainpitch:
     och skrift, sätter strategier för sociala medier och erbjuder kommunikation
     i trycksaker. 
 
-description: >-
-  Vi arbetar med att skapa den mest effektiva kommunikationen via digitala
-  kanaler, med strategier och relevant content driver vi flera sociala
-  medier-konton 
+description: 'Marknadsför ditt evenemang, din organisation, din produkt eller dig själv '
 intro:
   blurbs: []
   heading: FOTO
